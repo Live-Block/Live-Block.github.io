@@ -7,10 +7,6 @@ export default {
   lang: "zh-Hans",
   title: "MineCraft",
   description: "下载MineCraft启动器教程",
-  head: [
-    // 配置网站的图标（显示在浏览器的 tab 上）
-    ["link", { rel: "icon", href: `${base}favicon.ico` }],
-  ],
   themeConfig: {
 // https://vitepress.dev/reference/default-theme-config
 
@@ -22,6 +18,10 @@ export default {
       { text: "首页", link: "/" },
       { text: "关于", link: "/about" },
     ],
+
+    editLink: {
+            pattern: "https://github.com/live-block/live-block.github.io/edit/main/src/:path",
+            text: "在GitHub上编辑此页面"
 
     search: {
             provider: "local",
