@@ -4,27 +4,22 @@ const base = "/";
 export default {
   base,
   // 站点级选项
-  title: "是柠新呀的博客",
+  title: "MineCraft",
   description: "是柠新呀用来写博客的地方",
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
     ["link", { rel: "icon", href: `${base}favicon.ico` }],
   ],
   themeConfig: {
+// https://vitepress.dev/reference/default-theme-config
+
     docFooter: {
       prev: "上一页",
       next: "下一页",
     },
     nav: [
-      {
-        text: "大前端",
-        items: [
-          { text: "html", link: "/bigFrontEnd/html/" },
-          { text: "css", link: "/bigFrontEnd/css/" },
-          { text: "js", link: "/bigFrontEnd/js/" },
-        ],
-      },
-      { text: "关于", link: "/about" },
+      { text: "首页", link: "/" },
+       { text: "关于", link: "/about" },
     ],
     sidebar: {
       "/bigFrontEnd/html/": {
