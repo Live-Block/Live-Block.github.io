@@ -20,7 +20,7 @@ export default {
     ],
 
     editLink: {
-            pattern: "https://github.com/live-block/live-block.github.io/edit/docus/:path",
+            pattern: "https://github.com/live-block/live-block.github.io/edit/main/docs/:path",
             text: "在GitHub上编辑此页面"
         },
 
