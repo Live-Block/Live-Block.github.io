@@ -22,6 +22,11 @@ export default {
       { text: "首页", link: "/" },
       { text: "关于", link: "/about" },
     ],
+
+    search: {
+            provider: "local",
+        },
+
     sidebar: {
       "/bigFrontEnd/html/": {
         text: "html",

@@ -2,15 +2,15 @@
 layout: home
 
 hero:
-  name: 是柠新呀的博客
-  text: awesome-front-end-world.
-  tagline: 前端 知识体系地图
+  name: MineCraft
+  text: 跟随本网页的步伐教会你下载我的世界
+  tagline: 简单 · 易学
   image:
     src: /logo.jpg
     alt: logo
   actions:
     - theme: brand
-      text: Get Started
+      text: 开始学习
       link: /bigFrontEnd/html/
     - theme: alt
       text: View on GitHub
