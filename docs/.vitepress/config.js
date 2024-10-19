@@ -4,8 +4,9 @@ const base = "/";
 export default {
   base,
   // 站点级选项
+  lang: "zh-Hans",
   title: "MineCraft",
-  description: "是柠新呀用来写博客的地方",
+  description: "下载MineCraft启动器教程",
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
     ["link", { rel: "icon", href: `${base}favicon.ico` }],
@@ -19,7 +20,7 @@ export default {
     },
     nav: [
       { text: "首页", link: "/" },
-       { text: "关于", link: "/about" },
+      { text: "关于", link: "/about" },
     ],
     sidebar: {
       "/bigFrontEnd/html/": {
