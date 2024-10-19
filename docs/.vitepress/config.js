@@ -22,6 +22,7 @@ export default {
     editLink: {
             pattern: "https://github.com/live-block/live-block.github.io/edit/main/src/:path",
             text: "在GitHub上编辑此页面"
+        },
 
     search: {
             provider: "local",
