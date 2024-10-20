@@ -12,7 +12,7 @@
 
 > **MineCraft 是一款沙盒类游戏，在这个游戏中你可以随心所欲创造任何事物<br>因此，游戏开放性极大，社区的开发者们制作了一系列模组来丰富游戏的玩法<br>以及光影来提高视觉体验**
 
-<img src= "https://i2.hdslb.com/bfs/archive/483734a06d7c8b9db2c2ebdf96b0695599dcf5bc.jpg" width="350"><img src="https://i1.hdslb.com/bfs/archive/b3e9404e4dbc844030dba529aa0c2f87b1e8c9ca.jpg" width="350">
+![图片](https://i2.hdslb.com/bfs/archive/483734a06d7c8b9db2c2ebdf96b0695599dcf5bc.jpg =350x)![图片1](https://i1.hdslb.com/bfs/archive/b3e9404e4dbc844030dba529aa0c2f87b1e8c9ca.jpg =350x)
 
 若你对此有兴趣，并想 `游玩` 或与同学 `联机` ，请接着往后看
 
