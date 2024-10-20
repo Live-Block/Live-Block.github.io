@@ -8,9 +8,9 @@
 
 我在这里将所需的文件全部上传到了网盘
 
-- ##### [Java 8](https://pan.huang1111.cn/s/laqgjIL) ( 我的世界是基于Java语言开发的游戏，需要此环境运行 )
+- **[Java 8](https://pan.huang1111.cn/s/laqgjIL) ( 我的世界是基于Java语言开发的游戏，需要此环境运行 )**
 
-- ##### [HMCL启动器](https://pan.huang1111.cn/s/zMeW4hM) ( 打开启动器前先安装上面的Java 8 )
+- **[HMCL启动器](https://pan.huang1111.cn/s/zMeW4hM) ( 打开启动器前先安装上面的Java 8 )**
 
 
 ## 如何安装并游玩
