@@ -33,9 +33,9 @@ export default {
         text: "开始学习",
         collapsed: false,
         items: [
-          { text: "介绍", link: "/bigFrontEnd/html/" },
-          { text: "安装", link: "/bigFrontEnd/html/html1" },
-          { text: "联机", link: "bigFrontEnd/html/html2" },
+          { text: "介绍", link: "/guide/introduction" },
+          { text: "安装", link: "/guide/install" },
+          { text: "联机", link: "/guide/multiplayer" },
         ],
       },
      },
