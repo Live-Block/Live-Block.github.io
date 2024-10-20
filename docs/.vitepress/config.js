@@ -17,7 +17,6 @@ export default {
     nav: [
       { text: "首页", link: "/" },
       { text: "开始学习", link:"/guide/introduction", activeMatch: "/guide" },
-      { text: "关于", link: "/about" },
     ],
 
     editLink: {
