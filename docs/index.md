@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /bigFrontEnd/html/
+      link: /guide/
 
     - theme: alt
       text: GitHub

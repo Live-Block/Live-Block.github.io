@@ -28,29 +28,24 @@ export default {
             provider: "local",
         },
 
-    sidebar: {
-      "/bigFrontEnd/html/": {
-        text: "html",
-        items: [
-          { text: "html", link: "/bigFrontEnd/html/" },
-          { text: "html1", link: "/bigFrontEnd/html/html1" },
-          { text: "html2", link: "bigFrontEnd/html/html2" },
+sidebar: [
+            {
+                text: "开始使用",
+                collapsed: false,
+                items: [
+                    { text: "介绍", link: "/guide/introduction" },
+                    { text: "安装", link: "/guide/install" },
+                    { text: "插件", link: "/guide/multiplayer" }
+                ]
+            },
+            {
+                text: "开发文档",
+                collapsed: false,
+                items: [
+                    { text: "开始你的第一个插件", link: "/docs/introduction" },
+                    { text: "LiteLoader API", link: "/docs/liteloader-api" },
+                    { text: "Web Components", link: "/docs/web-components" },
+                    { text: "自定义协议方案", link: "/docs/protocol-scheme" }
+                ]
+            }
         ],
-      },
-      "/bigFrontEnd/css/": {
-        text: "css",
-        items: [
-          { text: "css1", link: "/bigFrontEnd/css/css1" },
-          { text: "css2", link: "/bigFrontEnd/css/css2" },
-        ],
-      },
-      "/bigFrontEnd/js/": {
-        text: "js",
-        items: [
-          { text: "js1", link: "/bigFrontEnd/js/js1" },
-          { text: "js2", link: "/bigFrontEnd/js/js2" },
-        ],
-      },
-    },
-  },
-};
