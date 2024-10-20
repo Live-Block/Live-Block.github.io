@@ -28,8 +28,8 @@ export default {
             provider: "local",
         },
 
-    sidebar: {
-      "/guide/": {
+    sidebar: [
+    {
         text: "开始学习",
         collapsed: false,
         items: [
@@ -38,6 +38,7 @@ export default {
           { text: "联机", link: "/guide/multiplayer" },
         ],
       },
-     },
+     ],
+    },
   },
 };
