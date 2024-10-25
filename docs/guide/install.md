@@ -19,7 +19,7 @@
 
 安装完毕后，打开 **HMCL-3.5.9**<br>下载游戏版本你自己挑选
 
-> **如果你想和35号大神联机游玩的话，请你下载带有以下条件的版本<br>( 联机需要版本以及其他条件完全一致 )**
+> **如果你想和 `35号大神` 联机游玩的话，请你下载带有以下条件的版本<br>( 联机需要版本以及其他条件完全一致 )**
 >
 > - **Minecraft <u>1.12.2</u>**
 >
@@ -27,6 +27,6 @@
 >
 > - **Optifine <u>HD U G5</u>**
 
-<img src="https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/version.png">
+![version](https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/version.png)
 
 安装完成后，账户列表选择 **离线模式** ，输入你想要的名字 ( 建议 **英文字母** 或 **数字** ，否则无法联机 )<br>然后你就可以 **启动游戏** 了
