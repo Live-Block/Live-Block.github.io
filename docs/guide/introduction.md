@@ -12,6 +12,8 @@
 
 > **MineCraft 是一款沙盒类游戏，在这个游戏中你可以随心所欲创造任何事物<br>因此，游戏开放性极大，社区的开发者们制作了一系列模组来丰富游戏的玩法<br>以及光影来提高视觉体验**
 
+<img src="https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/img_p0.png" width="350"><img src="https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/img_p1.png" width="350">
+
 若你对此有兴趣，并想 `游玩` 或与同学 `联机` ，请接着往后看
 
 ## 所需要的条件
