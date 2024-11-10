@@ -22,11 +22,11 @@
 
 > **如果你想和 `其他同学` 联机游玩的话，请你下载带有以下条件的版本<br>( 联机需要版本以及其他条件完全一致 )**
 >
-> - **Minecraft <u>1.12.2</u>**
+> - **Minecraft <u>1.8.9</u>**
 >
-> - **Forge <u>14.23.5.2860</u>**
+> - **Forge <u>11.15.1.2318</u> ( 不兼容可不装 )** 
 >
-> - **Optifine <u>HD U G5</u>**
+> - **Optifine <u>HD U M5</u>**
 
 ![version](https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/version.png)
 
