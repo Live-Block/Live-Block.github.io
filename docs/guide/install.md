@@ -18,15 +18,15 @@
 
 下载完所需文件后，首先安装 **jre-8u431-windows-x64** ( 目录别管，反正下节课就重置 )
 
-安装完毕后，打开 **HMCL-3.5.9**<br>下载游戏版本你自己挑选
+安装完毕后，打开 **HMCL-3.5.11**<br>下载游戏版本你自己挑选
 
 > **如果你想和 `其他同学` 联机游玩的话，请你下载带有以下条件的版本<br>( 联机需要版本以及其他条件完全一致 )**
 >
 > - **Minecraft <u>1.8.9</u>**
+> - **Forge <u>11.15.1.2318</u> ( 可装可不装 )** 
+> - **Optifine <u>HD U M5</u> ( 可装可不装 )**
 >
-> - **Forge <u>11.15.1.2318</u> ( 不兼容可不装 )** 
->
-> - **Optifine <u>HD U M5</u>**
+> **不装 Forge 与 Optifine 可加快安装速度**
 
 ![version](https://cdn.jsdelivr.net/gh/live-block/live-block.github.io@main/docs/img/version.png)
 
